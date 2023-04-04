@@ -62,7 +62,6 @@ about_content: | # this will include new lines to allow paragraphs
     - Lists
     - Tables
     - <a href="https://www.polsl.pl">Links</a>
-    - Images ![alt text](images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
