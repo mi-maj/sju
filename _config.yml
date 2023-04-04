@@ -52,7 +52,7 @@ linkedin_username: michał-majnusz-733516197
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  -----------Strona w budowie----------
+  ---------Strona w budowie---------
   
   Cześć! Jestem studentem 2 stopnia Teleinformatyki na Politechnice Śląskiej.
 
@@ -64,13 +64,13 @@ about_content: | # this will include new lines to allow paragraphs
     - <a href="https://www.polsl.pl">Links</a>
 
 content:
-  - title: Projects # Title for the section
+  - title: Projekty # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Sieć Jako Usługa
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -84,11 +84,11 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Doświadczenie zawodowe
     layout: list
     content:
       - layout: right
-        title: Company name
+        title: COMARCH S.A.
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
@@ -96,7 +96,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+  - title: Wykształcenie
     layout: list
     content:
       - layout: top-right
@@ -107,7 +107,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: Kilka zdań o mnie...
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
