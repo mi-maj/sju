@@ -57,11 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
   Cześć! Jestem studentem 2 stopnia Teleinformatyki na Politechnice Śląskiej.
 
   Pozdrawiam wszystkich odwiedzających.
-  
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="https://www.polsl.pl">Links</a>
 
 content:
   - title: Projekty # Title for the section
@@ -91,7 +86,6 @@ content:
         title: COMARCH S.A.
         sub_title: Młodszy Analityk
         caption: 07.2022 - 
-        link: Link to company (optional)
         quote: >
           Business unity Resource&Service Orchestration, Intelligent Assurance&Analytics
         description: | # this will include new lines to allow paragraphs
@@ -100,13 +94,21 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Politechnika Śląska
+        sub_title: Inżynier
+        caption: 2019 - 2023
         quote: >
-          Short institution or course description (optional)
+          ocena: bardzo dobry
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Absolwenci posiadają niezbędną wiedzę w zakresie informatyki i telekomunikacji.
+          Potrafią wykorzystać metody oraz narzędzia informatyczne w zastosowaniach telekomunikacyjnych i uwzględnić najnowsze osiągnięcia telekomunikacji w aplikacjach informatycznych.
+          Posiadają szeroką wiedzę oraz umiejętności w zakresie projektowania, eksploatacji i testowania sieci komputerowych (przewodowych i bezprzewodowych), systemów komputerowych, oprogramowania systemów informatycznych, a także urządzeń i systemów telekomunikacyjnych.
+          Ukończenie kierunku teleinformatyka pozwala na zatrudnienie w firmach zajmujących się rozwojem i wdrażaniem nowoczesnych środków techniki telekomunikacyjnej, u operatorów sieci teleinformatycznych i telekomunikacyjnych, w firmach tworzących oprogramowanie dla tych operatorów, u dostawców usług internetowych, w zakładach produkujących sprzęt informatyczny i telekomunikacyjny, a także w placówkach naukowo-badawczych.
+          Absolwenci są przygotowani do pracy w jednostkach gospodarczych tworzących systemy teleinformatyczne.
+          Posiadają niezbędne kwalifikacje do pracy administratora tych systemów oraz jako specjaliści z zakresu bezpieczeństwa systemów i sieci komputerowych.
+
+          <a href="https://rekrutacja.polsl.pl/kierunek/teleinformatyka/">(źródło: polsl.pl)</a>
+
   - title: Kilka zdań o mnie...
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -114,7 +116,9 @@ content:
 
       Lubię komunikację miejską.
 
-      <img src="images/landscape-trees.jpg" alt="Autobusy na pętli (zdj. własne)">
+      <img src="images/petla.jpg" alt="Autobusy na pętli (zdj. własne)">
+
+      Zdjęcie własne autobusów - Halemba Pętla. Mamy tu Solarisy III i IV generacji oraz Irisbusa.
 
 # Footer
 footer_show_references: true
