@@ -89,13 +89,13 @@ content:
     content:
       - layout: right
         title: COMARCH S.A.
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        sub_title: Młodszy Analityk
+        caption: 07.2022 - 
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          Business unity Resource&Service Orchestration, Intelligent Assurance&Analytics
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Przygotowywanie analiz systemowych, konfiguracja systemów do integracji z systemami zewnętrznymi.
   - title: Wykształcenie
     layout: list
     content:
@@ -110,9 +110,11 @@ content:
   - title: Kilka zdań o mnie...
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Szybko się uczę, ale bywam leniwy.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Lubię komunikację miejską.
+
+<img src="images/landscape-trees.jpg" alt="Autobusy na pętli (zdj. własne)">
 
 # Footer
 footer_show_references: true
