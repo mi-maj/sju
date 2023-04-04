@@ -49,7 +49,7 @@ linkedin_username: michał-majnusz-733516197
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: O mnie
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   ---------Strona w budowie---------
