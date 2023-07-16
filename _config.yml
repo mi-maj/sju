@@ -12,7 +12,7 @@ email: michmaj175@student.polsl.pl / dvbmichal@gmail.com
 email_title: E-mail polsl oraz prywatny
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://michmaj175.github.io/sju
+website: https://mi-maj.github.io/sju
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,7 +20,7 @@ darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  michmaj175
+github_username:  mi-maj
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 facebook_username: michalmajnusz
@@ -66,7 +66,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Sieć Jako Usługa
-        link: https://github.com/michmaj175/sju/
+        link: https://github.com/mi-maj/sju/
         description: | # this will include new lines to allow paragraphs
           Projekt, którego realizacja spowodowała powstanie tej strony.
   - title: Doświadczenie zawodowe
